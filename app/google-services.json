@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254323648284",
+    "firebase_url": "https://lostedformation.firebaseio.com",
+    "project_id": "lostedformation",
+    "storage_bucket": "lostedformation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254323648284:android:bf677305b6f4c47978fcd9",
+        "android_client_info": {
+          "package_name": "com.orange.odc.tpformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254323648284-a0m9icn8vmcsn0fk2sn48pv219qdeaeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB_RExmqsSHo-pBOP2NHMIkNS2jVoYb_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254323648284-a0m9icn8vmcsn0fk2sn48pv219qdeaeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TPFormation</string>
+    <string name="add_document">Ajouter</string>
+    <string name="add_message">Ajouter un nouveau document</string>
+    <string name="share_document">Partager</string>
+    <string name="owner_hint">Nom du propriétaire</string>
+    <string name="description_hint">Description</string>
+    <string name="type_hint">Type de piece</string>
+    <string name="save_document">Sauvegarder</string>
+    <string name="update_document">Mise à jour</string>
+</resources>
